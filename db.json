@@ -1,0 +1,228 @@
+{
+    "usuarios": [
+        {
+            "id": "e486a2dd-1b41-4a4f-9798-ef4069fb0b25", 
+            "name": "Manuel Vicente da Costa", 
+            "gender": "M", 
+            "birth": "1986-01-10", 
+            "country": "Brasil", 
+            "email": "manuelvicentedacosta_@agreonoma.eng.br",
+            "password": "iSWU5jShGz",
+            "photo": "",
+            "admin": "true",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "33edcec7-5b6b-41c3-98fc-7202e8feb688", 
+            "name": "Marcelo Martin Costa", 
+            "gender": "M", 
+            "birth": "1989-03-15", 
+            "country": "Brasil", 
+            "email": "mmarcelomartincosta@vetech.vet.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "true",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "36ed4ad4-3733-48e8-9c29-c110912e8f31", 
+            "name": "Osvaldo Ruan Baptista", 
+            "gender": "M", 
+            "birth": "1986-01-10", 
+            "country": "Brasil", 
+            "email": "roferreira122@gmail.com",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "true",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "eeb00590-e18f-4158-ac33-1d6dd55e7216", 
+            "name": "Henry Fernando Ricardo Pinto", 
+            "gender": "M", 
+            "birth": "1986-01-10", 
+            "country": "Brasil", 
+            "email": "henryfernandoricardopinto_@igi.com.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "ee6d33f1-6837-43eb-b659-6861622e6ab2", 
+            "name": "Luís Henrique Lorenzo Duarte", 
+            "gender": "M", 
+            "birth": "1986-01-10", 
+            "country": "Brasil", 
+            "email": "lluishenriquelorenzoduarte@inpa.gov.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "53608641-6a2b-4128-a7d2-0db95a48c8dd", 
+            "name": "Henry Fernando Ricardo Pinto", 
+            "gender": "M", 
+            "birth": "1986-01-10", 
+            "country": "Brasil", 
+            "email": "henryfernandoricardopinto_@igi.com.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "5e4013e0-ced0-4c0a-b152-49f6d99052df", 
+            "name": "Isabela Gabriela Elisa Ramos", 
+            "gender": "M", 
+            "birth": "1984-01-08", 
+            "country": "Brasil", 
+            "email": "iisabelagabrielaelisaramos@osbocops.com",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "c4b4dc8d-e850-443d-992a-812bdcb50409", 
+            "name": "Maitê Lívia Sara Gonçalves", 
+            "gender": "M", 
+            "birth": "1983-12-22", 
+            "country": "Brasil", 
+            "email": "maiteliviasaragoncalves_@itau-unibanco.com.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "efe0619d-b35a-4ead-9534-1e1fef231785", 
+            "name": "Juliana Cristiane Cavalcanti", 
+            "gender": "M", 
+            "birth": "1990-04-02", 
+            "country": "Brasil", 
+            "email": "julianacristianecavalcanti_@etipel.com.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "0051f63e-7985-43bf-9ec2-3822bd88ed97", 
+            "name": "Isabel Alícia de Paula", 
+            "gender": "M", 
+            "birth": "1986-05-01", 
+            "country": "Brasil", 
+            "email": "isabelaliciadepaula_@atento.com.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        },
+        {
+            "id": "70719416-fa33-452e-ab52-b68805ca75f6", 
+            "name": "Laís Sebastiana Débora Galvão", 
+            "gender": "M", 
+            "birth": "1988-03-25", 
+            "country": "Brasil", 
+            "email": "hlaissebastianadeboragalvao_@allurepesquisa.com.br",
+            "password": "teste@123",
+            "photo": "",
+            "admin": "false",
+            "register": "2021-01-25"
+        }  
+    ],
+    "empresa": [
+         {
+            "id": "c1cb8a86-10ee-40b4-859e-373581aa6291",
+            "name": "Amanda e Bento Fotografias Ltda",
+            "cnpj": "11.536.544/0001-99",
+            "ie": "816.787.164.870",
+            "dataAbertura": "2016-04-11",
+            "site": "www.amandaebentofotografiasltda.com.br",
+            "email": "marketing@amandaebentofotografiasltda.com.br",
+            "zipCode": "05052-050",
+            "address": "Rua Daniel Bittencourt",
+            "number": "336",
+            "district": "Siciliano",
+            "city": "São Paulo",
+            "state": "SP",
+            "phone": "(11)3915-5489",
+            "celphone": "(11) 99104-3698",
+            "matriz": "true"
+        },
+        {
+            "id": "c1cb8a86-10ee-40b4-859e-373581aa6291",
+            "name": "Rafaela e Luciana Marcenaria Ltda",
+            "cnpj": "90.485.877/0001-02",
+            "ie": "643.562.799.243",
+            "dataAbertura": "2016-07-08",
+            "site": "www.rafaelaelucianamarcenarialtda.com.br",
+            "email": "estoque@rafaelaelucianamarcenarialtda.com.br",
+            "zipCode": "08773-420",
+            "address": "Rua Tenente Alcides Machado",
+            "number": "258",
+            "district": "Vila Sarah Avignon",
+            "city": "Mogi das Cruzes",
+            "state": "SP",
+            "phone": "(11) 3807-3898",
+            "celphone": "(11) 99980-7485",
+            "matriz": "false"
+        }
+    ],
+    "grupos": [
+        {
+            "id": "ecbd7b6f-6de4-4985-b45e-6b7c9f471e56",
+            "name": "Administradores",
+            "description": "Administradores do sistema"
+        },
+        {
+            "id": "86da19c0-a124-422c-a9b1-a14136ad5de3",
+            "name": "Contadores",
+            "description": "Utilizado para ter acesso a parte financeira e contábil"
+        },
+        {
+            "id": "f16dda34-2adf-4a64-852c-5c74dd515d4e",
+            "name": "Produção",
+            "description": "Utilizado para ter acesso as operações do módulo de Produção"
+        },
+        {
+            "id": "476ce96e-7f27-4624-8c52-f3e4842702e5",
+            "name": "Comercial",
+            "description": "Utilizado para ter acesso as operações do módulo comercial"
+        },
+        {
+            "id": "2d717432-780d-4b92-a90c-4742ccbf66be",
+            "name": "Gerencial",
+            "description": "Para gerentes ou cargos especiais"
+        },
+        {
+            "id": "9344fdd4-2747-4b31-810f-4b0f92cde6ae",
+            "name": "Operacional",
+            "description": "Perfil para operações triviais do sistema, tais como: cadastros, relatórios"
+        }
+    ],
+    "permissoes": [
+        {
+            "id": "4ef815e9-b1e0-4e8b-8847-35b7eecd74bd",
+            "name": "SELECT_USER",
+            "description": "Listar todos os usuários e fazer consultas"
+        },
+        {
+            "id": "1a41a097-c902-49dc-96ad-b71fc334838e",
+            "name": "EDIT_USER",
+            "description": "Editar o registro de um usuário"
+        },
+        {
+            "id": "380ef369-cabc-4cde-a093-eafadaa3b3e7",
+            "name": "CREATE_USER",
+            "description": "Criar um usuário"
+        },
+        {
+            "id": "81faaeba-e048-429a-9a87-42abe1f58eec",
+            "name": "DELETE_USER",
+            "description": "Deletar os um usuário"
+        }
+    ]
+}
